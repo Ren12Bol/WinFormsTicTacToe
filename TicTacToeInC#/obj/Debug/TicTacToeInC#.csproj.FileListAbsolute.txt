@@ -1,0 +1,11 @@
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\bin\Debug\TicTacToeInC#.exe.config
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\bin\Debug\TicTacToeInC#.exe
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\bin\Debug\TicTacToeInC#.pdb
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.csproj.AssemblyReference.cache
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC_.Form1.resources
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC_.Properties.Resources.resources
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.csproj.GenerateResource.cache
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.csproj.CoreCompileInputs.cache
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.exe
+C:\Users\79282\Desktop\TicTacToeInC#\TicTacToeInC#\obj\Debug\TicTacToeInC#.pdb
